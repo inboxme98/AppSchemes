@@ -1,0 +1,31 @@
+//
+//  Debug.xcconfig
+//  Appschemes
+//
+//  Created by Varun Kumar on 25/02/20.
+//  Copyright © 2020 VK. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+
+// Development.xcconfig
+// Server URL
+ROOT_URL = https:/$()/www.vk.appscheme.debug.com
+
+// Keys
+API_KEY = vkappscheme_debug
+
+// App Settings
+APP_NAME = Appscheme (debug)
+APP_BUNDLE_ID = com.vk.appscheme.debug
+
+
+
+//// Keys
+//API_KEY = 783u9djd8a_hkzos7jd803001nd
+//
+//// App Settings
+//APP_NAME = MyTestApp (dev)
+//APP_BUNDLE_ID = com.thoughtbot.MyTestApp.dev

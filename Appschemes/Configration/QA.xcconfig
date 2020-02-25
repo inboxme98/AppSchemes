@@ -1,0 +1,21 @@
+//
+//  QA.xcconfig
+//  Appschemes
+//
+//  Created by Varun Kumar on 25/02/20.
+//  Copyright © 2020 VK. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+// qc.xcconfig
+// Server URL
+ROOT_URL = https:/$()/www.vk.appscheme.qc.com
+
+// Keys
+API_KEY = vkappscheme_qc
+
+// App Settings
+APP_NAME = Appscheme (qc)
+APP_BUNDLE_ID = com.vk.appscheme.qc
